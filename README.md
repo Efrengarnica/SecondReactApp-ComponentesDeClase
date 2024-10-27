@@ -1,2 +1,3 @@
-# Segunda aplicación de React
-Lo más destacable de esta app es que se agregó un EventListener a los botones y se hizo uso del hook useState para agregar estado a los componentes funcionales.
+# Segunda aplicación de React usando Componentes de Clase
+Lo más destacable que se aprendió fue que podemos tener un contructor para poder agregar un estado a mi componente de clase. Además se aprendió a saber modificar ese estado del componente con métodos.
+`this.state` `this.setState` `.bind(this)` son las cosas más destacables de este aprendizaje.
