@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SecondReactApp-ComponentesDeClase/static/css/main.a125cb04.css",
+    "main.js": "/SecondReactApp-ComponentesDeClase/static/js/main.c9bbc838.js",
+    "index.html": "/SecondReactApp-ComponentesDeClase/index.html",
+    "main.a125cb04.css.map": "/SecondReactApp-ComponentesDeClase/static/css/main.a125cb04.css.map",
+    "main.c9bbc838.js.map": "/SecondReactApp-ComponentesDeClase/static/js/main.c9bbc838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a125cb04.css",
+    "static/js/main.c9bbc838.js"
+  ]
+}
